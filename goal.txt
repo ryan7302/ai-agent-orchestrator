@@ -1,0 +1,1 @@
+Extend the Arachne web specialist agent to: handle test commands from config, retry on test failure, use proper web-specific file validation, support {url: ...} for documentation fetching, and fully replicate ADIE's daemon functionality.

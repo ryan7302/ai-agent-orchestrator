@@ -1,0 +1,7 @@
+{
+  "repo": "ryan7302/adie-specialists",
+  "allowed_domains": [],
+  "test_command": "",
+  "max_attempts": 2,
+  "allowed_files": ["*.py"]
+}
