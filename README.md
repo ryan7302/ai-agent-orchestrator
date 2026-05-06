@@ -14,8 +14,8 @@ All agents collaborate via GitHub pull requests, with zero human intervention af
 
 ```mermaid
 graph TD
-    A[🎯 User Goal] --> B(🧠 Architect – Groq Cloud)
-    B -->|"Reads repo code,<br/>plans next tiny step"| C[📝 Single Task Line]
+    A[User Goal] --> B(Architect – Groq Cloud)
+    B -->|"Reads repo code,<br/>plans next tiny step"| C[Single Task Line]
     C -->|Written to adie_tasks.txt| D(🤖 ADIE – Local Ollama)
     D -->|"Clones repo, edits files,<br/>runs tests, pushes branch"| E[🔀 GitHub Pull Request]
     E -->|"Architect merges<br/>(squash)"| F[📁 Updated Main Branch]
