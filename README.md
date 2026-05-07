@@ -1,4 +1,4 @@
-# 🤖 AI Agent Orchestrator
+# 🤖 AI Automation Orchestrator
 
 A self‑improving multi‑agent system that autonomously designs, codes, and maintains software projects – 24/7.
 
